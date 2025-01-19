@@ -45,6 +45,13 @@ To evaluate the impact of the MLDA on:
 
 ---
 
+## Repository Contents
+
+- **`Project Report.pdf`**: The detailed report documenting the analysis, methodology, results, and conclusions. (Can be found in the 'docs' folder) 
+- **`MLD_Mortality_Analysis.R`**: The R script used for the analysis, including data processing, visualization, and RD computations. (Can be found in the 'R Code' folder)
+
+---
+
 ### **How to Run**
 #### **Run Locally in RStudio**
 1. Download and install [RStudio](https://www.rstudio.com/).  
