@@ -58,8 +58,8 @@ install.packages(c("haven", "ggplot2", "dplyr"))
 
 ---
 
-### ***Strategic Recommendations**
-### ***Policy Implications:***
+### **Strategic Recommendations**
+### **Policy Implications:**
 
 - Stricter enforcement of the MLDA can potentially save lives, particularly from motor vehicle accidents.
 Additional awareness campaigns around the risks of drinking and driving at the MLDA threshold.
